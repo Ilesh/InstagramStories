@@ -151,7 +151,7 @@
     {
         "author_id": 3,
         "name": "Jigar",
-        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/003/scaled/12006240_10152979786546682_8385992521542333520_n.jpg?1522926561",
+        "avatar_url": "https://httpbin.org/image/png",
         "seen": true,
         "activities": [
             {
@@ -188,9 +188,9 @@
                             "media_url": null,
                             "type": "image",
                             "media": {
-                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/581/original/4206275D-A8FC-4A46-BFBD-57879E6E4AEB.jpg?1532511783",
-                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/581/scaled/4206275D-A8FC-4A46-BFBD-57879E6E4AEB.jpg?1532511783",
-                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/581/thumb/4206275D-A8FC-4A46-BFBD-57879E6E4AEB.jpg?1532511783"
+                                "original_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+                                "scaled_url": null,
+                                "thumb_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg"
                             }
                         }
                     ]
@@ -226,10 +226,10 @@
                         {
                             "id": 582,
                             "media_url": null,
-                            "type": "image",
+                            "type": "video",
                             "media": {
-                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/582/original/1C877107-967F-470F-B7BC-D2FFC1B0B068.jpg?1532519253",
-                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/582/scaled/1C877107-967F-470F-B7BC-D2FFC1B0B068.jpg?1532519253",
+                                "original_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+                                "scaled_url": null,
                                 "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/582/thumb/1C877107-967F-470F-B7BC-D2FFC1B0B068.jpg?1532519253"
                             }
                         }
@@ -270,9 +270,9 @@
                             "media_url": null,
                             "type": "image",
                             "media": {
-                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/583/original/A10411EC-2E8F-4226-AB0E-5C31C031B1E1.jpg?1532519346",
-                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/583/scaled/A10411EC-2E8F-4226-AB0E-5C31C031B1E1.jpg?1532519346",
-                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/583/thumb/A10411EC-2E8F-4226-AB0E-5C31C031B1E1.jpg?1532519346"
+                                "original_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+                                "scaled_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+                                "thumb_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg"
                             }
                         }
                     ]
