@@ -1,0 +1,38 @@
+PODS:
+  - AnimatedCollectionViewLayout (0.5.0)
+  - JPVideoPlayer (3.1.1)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - Spring (1.0.6)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - JPVideoPlayer
+  - SDWebImage
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AnimatedCollectionViewLayout
+    - JPVideoPlayer
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: fafd0b2e8d4d46405bd86fa7ba84bb7f73a20b13
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 8b660a623d85001f76f00f0d2302a7b043c72bda
+  JPVideoPlayer: 234c2fc5c9dfd67b969a5dd8233815eb872472c6
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+
+PODFILE CHECKSUM: e7c142b3121e535a2ff1d27d761386f7ca31abb5
+
+COCOAPODS: 1.5.3

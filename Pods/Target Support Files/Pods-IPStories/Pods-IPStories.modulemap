@@ -1,0 +1,6 @@
+framework module Pods_IPStories {
+  umbrella header "Pods-IPStories-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,420 @@
+[
+    {
+        "author_id": 84,
+        "name": "Ilesh P.",
+        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/084/scaled/C9006DC1-943F-4CEA-B8E5-046B930319EA.jpg?1532505265",
+        "seen": true,
+        "activities": [
+            {
+                "id": 1208,
+                "action": "post_created",
+                "time_ago": "4 mo",
+                "seen": true,
+                "subject": {
+                    "id": 964,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        3,
+                        12
+                    ],
+                    "time_ago": "4 mo",
+                    "written_by": {
+                        "id": 84,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Ilesh P.",
+                        "username": "ilesh.panchal",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/084/scaled/C9006DC1-943F-4CEA-B8E5-046B930319EA.jpg?1532505265"
+                    },
+                    "post_images": [
+                        {
+                            "id": 588,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/588/original/E5FC5A56-78E8-45D1-AF2E-F87CA10B9668.jpg?1537262153",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/588/scaled/E5FC5A56-78E8-45D1-AF2E-F87CA10B9668.jpg?1537262153",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/588/thumb/E5FC5A56-78E8-45D1-AF2E-F87CA10B9668.jpg?1537262153"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1210,
+                "action": "post_created",
+                "time_ago": "4 mo",
+                "seen": true,
+                "subject": {
+                    "id": 965,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        3,
+                        12
+                    ],
+                    "time_ago": "4 mo",
+                    "written_by": {
+                        "id": 84,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Ilesh P.",
+                        "username": "ilesh.panchal",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/084/scaled/C9006DC1-943F-4CEA-B8E5-046B930319EA.jpg?1532505265"
+                    },
+                    "post_images": [
+                        {
+                            "id": 589,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/589/original/A39A7112-A9EA-4A7B-8F6F-A1FD2BB973B4.jpg?1537264482",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/589/scaled/A39A7112-A9EA-4A7B-8F6F-A1FD2BB973B4.jpg?1537264482",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/589/thumb/A39A7112-A9EA-4A7B-8F6F-A1FD2BB973B4.jpg?1537264482"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1658,
+                "action": "post_created",
+                "time_ago": "22m",
+                "seen": true,
+                "subject": {
+                    "id": 1277,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [],
+                    "time_ago": "22m",
+                    "written_by": {
+                        "id": 84,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Ilesh P.",
+                        "username": "ilesh.panchal",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/084/scaled/C9006DC1-943F-4CEA-B8E5-046B930319EA.jpg?1532505265"
+                    },
+                    "post_images": [
+                        {
+                            "id": 669,
+                            "media_url": null,
+                            "type": "video",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/669/original/video.mp4?1547899257",
+                                "scaled_url": null,
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/669/thumb/video.jpg?1547899257"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1659,
+                "action": "post_created",
+                "time_ago": "21m",
+                "seen": true,
+                "subject": {
+                    "id": 1278,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [],
+                    "time_ago": "21m",
+                    "written_by": {
+                        "id": 84,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Ilesh P.",
+                        "username": "ilesh.panchal",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/084/scaled/C9006DC1-943F-4CEA-B8E5-046B930319EA.jpg?1532505265"
+                    },
+                    "post_images": [
+                        {
+                            "id": 670,
+                            "media_url": null,
+                            "type": "video",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/670/original/video.mp4?1547899351",
+                                "scaled_url": null,
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/670/thumb/video.jpg?1547899351"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "page": null,
+        "per_page": 10,
+        "total_pages": 2
+    },
+    {
+        "author_id": 3,
+        "name": "Jigar",
+        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/003/scaled/12006240_10152979786546682_8385992521542333520_n.jpg?1522926561",
+        "seen": true,
+        "activities": [
+            {
+                "id": 1146,
+                "action": "post_created",
+                "time_ago": "6 mo",
+                "seen": true,
+                "subject": {
+                    "id": 935,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        12,
+                        27,
+                        84,
+                        1427,
+                        3,
+                        1524,
+                        1843,
+                        1816
+                    ],
+                    "time_ago": "6 mo",
+                    "written_by": {
+                        "id": 3,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Jigar",
+                        "username": "dan",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/003/scaled/12006240_10152979786546682_8385992521542333520_n.jpg?1522926561"
+                    },
+                    "post_images": [
+                        {
+                            "id": 581,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/581/original/4206275D-A8FC-4A46-BFBD-57879E6E4AEB.jpg?1532511783",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/581/scaled/4206275D-A8FC-4A46-BFBD-57879E6E4AEB.jpg?1532511783",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/581/thumb/4206275D-A8FC-4A46-BFBD-57879E6E4AEB.jpg?1532511783"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1147,
+                "action": "post_created",
+                "time_ago": "6 mo",
+                "seen": true,
+                "subject": {
+                    "id": 936,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        12,
+                        27,
+                        84,
+                        1427,
+                        3,
+                        1816
+                    ],
+                    "time_ago": "6 mo",
+                    "written_by": {
+                        "id": 3,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Jigar",
+                        "username": "dan",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/003/scaled/12006240_10152979786546682_8385992521542333520_n.jpg?1522926561"
+                    },
+                    "post_images": [
+                        {
+                            "id": 582,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/582/original/1C877107-967F-470F-B7BC-D2FFC1B0B068.jpg?1532519253",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/582/scaled/1C877107-967F-470F-B7BC-D2FFC1B0B068.jpg?1532519253",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/582/thumb/1C877107-967F-470F-B7BC-D2FFC1B0B068.jpg?1532519253"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1148,
+                "action": "post_created",
+                "time_ago": "6 mo",
+                "seen": true,
+                "subject": {
+                    "id": 937,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        12,
+                        27,
+                        84,
+                        1427,
+                        3,
+                        1524,
+                        1843,
+                        1816
+                    ],
+                    "time_ago": "6 mo",
+                    "written_by": {
+                        "id": 3,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Jigar",
+                        "username": "dan",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/003/scaled/12006240_10152979786546682_8385992521542333520_n.jpg?1522926561"
+                    },
+                    "post_images": [
+                        {
+                            "id": 583,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/583/original/A10411EC-2E8F-4226-AB0E-5C31C031B1E1.jpg?1532519346",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/583/scaled/A10411EC-2E8F-4226-AB0E-5C31C031B1E1.jpg?1532519346",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/583/thumb/A10411EC-2E8F-4226-AB0E-5C31C031B1E1.jpg?1532519346"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1165,
+                "action": "post_created",
+                "time_ago": "5 mo",
+                "seen": true,
+                "subject": {
+                    "id": 951,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        12,
+                        84,
+                        3,
+                        1519,
+                        1816
+                    ],
+                    "time_ago": "5 mo",
+                    "written_by": {
+                        "id": 3,
+                        "type": "Professional",
+                        "author_type": "Professional",
+                        "name": "Jigar",
+                        "username": "dan",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/professionals/avatars/000/000/003/scaled/12006240_10152979786546682_8385992521542333520_n.jpg?1522926561"
+                    },
+                    "post_images": [
+                        {
+                            "id": 586,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/586/original/305D820D-4585-4297-9378-DBA98E80723D.jpg?1535534570",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/586/scaled/305D820D-4585-4297-9378-DBA98E80723D.jpg?1535534570",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/586/thumb/305D820D-4585-4297-9378-DBA98E80723D.jpg?1535534570"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "page": null,
+        "per_page": 10,
+        "total_pages": 2
+    },
+    {
+        "author_id": 14761,
+        "name": "Google",
+        "seen": true,
+        "activities": [
+            {
+                "id": 1151,
+                "action": "post_created",
+                "time_ago": "6 mo",
+                "seen": true,
+                "subject": {
+                    "id": 940,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        84,
+                        3,
+                        12
+                    ],
+                    "time_ago": "6 mo",
+                    "written_by": {
+                        "id": 84,
+                        "type": "Professional",
+                        "author_type": "Agency",
+                        "name": "Google",
+                        "mention_tag": "google_india",
+                        "job": null
+                    },
+                    "post_images": [
+                        {
+                            "id": 585,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/585/original/1804DDBA-0F67-4F91-81FB-D9016C6AF019.jpg?1533295479",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/585/scaled/1804DDBA-0F67-4F91-81FB-D9016C6AF019.jpg?1533295479",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/585/thumb/1804DDBA-0F67-4F91-81FB-D9016C6AF019.jpg?1533295479"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "page": null,
+        "per_page": 10,
+        "total_pages": 2
+    },
+    {
+        "author_id": 86,
+        "name": "iCan Software",
+        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/employers/avatars/000/000/086/scaled/5D7C4180-4A77-4F8A-B0BD-8E3B148BAC0A.jpg?1532004957",
+        "seen": true,
+        "activities": [
+            {
+                "id": 1150,
+                "action": "post_created",
+                "time_ago": "6 mo",
+                "seen": true,
+                "subject": {
+                    "id": 939,
+                    "body": "",
+                    "highlight": true,
+                    "seen_by": [
+                        84,
+                        3
+                    ],
+                    "time_ago": "6 mo",
+                    "written_by": {
+                        "id": 84,
+                        "type": "Professional",
+                        "author_type": "Employer",
+                        "name": "iCan Software",
+                        "mention_tag": "icandev",
+                        "avatar_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/employers/avatars/000/000/086/scaled/5D7C4180-4A77-4F8A-B0BD-8E3B148BAC0A.jpg?1532004957",
+                        "job": null
+                    },
+                    "post_images": [
+                        {
+                            "id": 584,
+                            "media_url": null,
+                            "type": "image",
+                            "media": {
+                                "original_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/584/original/66E3888D-812C-4225-B12C-8A865B5100E3.jpg?1533295459",
+                                "scaled_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/584/scaled/66E3888D-812C-4225-B12C-8A865B5100E3.jpg?1533295459",
+                                "thumb_url": "https://s3-eu-west-2.amazonaws.com/recruitd-staging/post_images/media/000/000/584/thumb/66E3888D-812C-4225-B12C-8A865B5100E3.jpg?1533295459"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "page": null,
+        "per_page": 10,
+        "total_pages": 2
+    }
+]
