@@ -16,7 +16,7 @@ InstagramStories is helpfull for the display videos and images.
 
 ## Installing
 
-Download the demo app and find the necessary files for the demo project.
+Download the demo app and find the necessary files for the project.
 
 
 ## Authors
