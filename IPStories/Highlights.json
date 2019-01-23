@@ -325,6 +325,7 @@
     {
         "author_id": 14761,
         "name": "Google",
+        "avatar_url": "https://picsum.photos/400/400/?image=157",
         "seen": true,
         "activities": [
             {
