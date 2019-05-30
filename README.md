@@ -18,12 +18,19 @@ InstagramStories is helpfull for the display videos and images.
 
 Download the demo app and find the necessary files for the project.
 
+## Contributing
 
-## Authors
+- If you **need help** or you'd like to **ask a general question**, open an issue.
+- If you **found a bug**, open an issue.
+- If you **have a feature request**, open an issue.
+- If you **want to contribute**, submit a pull request.
+
+## 👨🏻‍💻 Author
 
 * **[Ilesh Panchal](https://github.com/ilesh)** - 
 
+<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/dD9nr61qx"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"><span style="margin-left:5px"></span></a>
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for more details.
+This project is licensed under the MIT License - See [LICENSE](./LICENSE) for details.
