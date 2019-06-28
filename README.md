@@ -1,5 +1,4 @@
-# InstagramStories
-Stories like Instagram image + video display with cache :)
+# Stories like Instagram
 
 <p align="center">
 <img src="https://img.shields.io/badge/Swift-4.0-brightgreen.svg" alt="Swift 4.0"/>
@@ -9,14 +8,16 @@ Stories like Instagram image + video display with cache :)
 </a>
 </p>
 
-InstagramStories is helpfull for the display videos and images.
+Image and Video preview like the stories in the instagram, You can implemente stories like instagram in your project. Stories is helpfull for the display videos and images. Please checkout my code here it's free ;)
 
 ![ezgif com-optimize](https://i.imgflip.com/2rn8vi.gif)
 
 
-## Installing
+## How to use?
 
-Download the demo app and find the necessary files for the project.
+Here, I have tried to make it simple as I can. You need to download the project and take some files in your project. Its just demo practice project. 
+
+##### Note: I am assumes you are comfortable with the basics of storyboards and view controllers.
 
 ## Contributing
 
@@ -29,7 +30,7 @@ Download the demo app and find the necessary files for the project.
 
 * **[Ilesh Panchal](https://github.com/ilesh)** - 
 
-<a href="https://www.buymeacoffee.com/DCBMEeh3R" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/dD9nr61qx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## License
 
