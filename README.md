@@ -28,7 +28,7 @@ Here, I have tried to make it simple as I can. You need to download the project 
 
 ## 👨🏻‍💻 Author
 
-* **[Ilesh Panchal](https://github.com/ilesh)** - 
+* **[Ilesh Panchal](https://twitter.com/ilesh_panchal)** 
 
 <a href="https://www.buymeacoffee.com/dD9nr61qx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
