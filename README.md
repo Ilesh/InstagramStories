@@ -8,14 +8,14 @@
 </a>
 </p>
 
-Image and Video preview like the stories in the instagram, You can implemente stories like instagram in your project. Stories is helpfull for the display videos and images. Please checkout my code here it's free ;)
+Image and Video preview like the stories in the instagram, You can implemente stories like instagram in your project. Story is helpfull for the display videos and images. Please checkout my code here it's free ;)
 
 ![ezgif com-optimize](https://i.imgflip.com/2rn8vi.gif)
 
 
 ## How to use?
 
-Here, I have tried to make it simple as I can. You need to download the project and take some files in your project. Its just demo practice project. 
+Here, I have tried to make it simple as I can. You need to download the project and drag some files in your project. It's just demo for practice project. 
 
 ##### Note: I am assumes you are comfortable with the basics of storyboards and view controllers.
 
